@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>ECE @ NIT Hamirpur</b> · Backend developer · Competitive programmer<br/>
-  I build backend APIs with Node.js, Express and MongoDB, and solve problems on Codeforces and LeetCode in C++.
 </p>
 
 ---
@@ -19,9 +18,9 @@
 ### 🧰 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java&theme=dark" alt="Languages"/><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,java&theme=dark" alt="Languages"/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,mysql&theme=dark" alt="Backend and data"/><br/>
-  <img src="https://skillicons.dev/icons?i=react,git,github,vercel,linux&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" alt="Tools"/>
 </p>
 
 ---
